@@ -8,9 +8,10 @@ __pycache__/
 *.pyc
 
 # Model files (optional if large)
-*.h5
-*.keras
-*.pkl
+mini_gpt_tinystories_1M.keras
+word_suggestion_model.keras
+tokenizer.pkl
+
 
 # Streamlit cache
 .streamlit/
