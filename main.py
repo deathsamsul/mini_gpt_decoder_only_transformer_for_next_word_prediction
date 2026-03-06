@@ -12,7 +12,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🤖 Next Word Prediction App")
+st.title(" Next Word Prediction App")
 st.markdown("See Top-5 predictions with probabilities.")
 
 
